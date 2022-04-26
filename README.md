@@ -29,3 +29,20 @@ balancer/                                        # python used to balancer teams
 |- *SEE README*
 ```
  
+## Contributors
+
+Content in this repository was created and worked on by a host of contributors. See below.
+
+- Tutorial 1: Jesse Chiem, Shachi Mittal
+- Tutorial 2: Dave Beck
+- Tutorial 3: Dave Beck
+- Tutorial 4: Wesley Beckner, Evan Komp
+- Tutorial 5: Stephanie Valleau
+
+
+- Agenda, Intructions and Info: Stephanie Valleau
+- Code of conduct: Stephanie Valleau, Nida Janulaitis
+- Project documents: Stephanie Valleau, Ivan Castillo, Brenden Pelkie, Evan Komp
+- Provided code: Brenden Pelkie
+- Templates: Stephanie Valleau
+- Team balancer code: Evan Komp
