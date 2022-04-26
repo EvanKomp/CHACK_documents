@@ -44,6 +44,7 @@ Content in this repository was created and worked on by a host of contributors. 
 - Agenda, Intructions and Info: Stephanie Valleau
 - Code of conduct: Stephanie Valleau, Nida Janulaitis
 - Project documents: Stephanie Valleau, Ivan Castillo, Brenden Pelkie, Evan Komp
+- Rubric: Stephanie Valleau
 - Provided code: Brenden Pelkie
 - Templates: Stephanie Valleau
 - Team balancer code: Evan Komp
