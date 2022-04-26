@@ -40,9 +40,12 @@ Content in this repository was created and worked on by a host of contributors. 
 - Tutorial 5: Stephanie Valleau
 
 
+
 - Agenda, Intructions and Info: Stephanie Valleau
 - Code of conduct: Stephanie Valleau, Nida Janulaitis
 - Project documents: Stephanie Valleau, Ivan Castillo, Brenden Pelkie, Evan Komp
 - Provided code: Brenden Pelkie
 - Templates: Stephanie Valleau
 - Team balancer code: Evan Komp
+
+- NOAA Dataset: raw data [here](https://www.ncdc.noaa.gov/stormevents/), cleaned and prepared by Evan Komp
