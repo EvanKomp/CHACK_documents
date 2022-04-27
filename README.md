@@ -12,6 +12,7 @@ admin/                                           # contains documents given to s
 |- C-HACK 2022 Agenda.pdf                        # the schedule of the event
 |- C-HACK 2022 Instructions & Information.pdf    # Detailed information on how the event is accessed, the steps to take, etc.
 |- C-HACK_Code_of_Conduct.pdf                    # Code of conduct participants agree to by participating
+|- Evaluation_Survey.pdf                         # Image of the survey given to students before and after the event.
 tutorials/                                       # The tutorial notebooks
 |- tutorialX                                     # where X is a number 1-5. Contains two notebooks - one without exercises filled out and one answer key
 |- NOAA_storm_data/cleaned_data.csv              # data used for tutorials
