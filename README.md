@@ -34,7 +34,7 @@ balancer/                                        # python used to balancer teams
 
 Content in this repository was created and worked on by a host of contributors. See below.
 
-- __Evant Creator__: Stephanie Valleau
+- __Event Creator__: Stephanie Valleau
 - __Main Organizers__: Stephanie Valleau, Dave Beck, Evan Komp, Brenden Pelkie, Nida Janulaitis
 - __Industry Organizers__: Ivan Castillo, Leo Chiang, Michael Abel, You Peng
 - __Tutorial Instructors__: Jesse Chiem, Shachi Mittal (Tutorial 1), Dave Beck (Tutorials 2 & 3), Wesley Beckner, Evan Komp (Tutorial 4), Stephanie Valleau (Tutorial 5)
