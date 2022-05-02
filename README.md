@@ -34,20 +34,6 @@ balancer/                                        # python used to balancer teams
 
 Content in this repository was created and worked on by a host of contributors. See below.
 
-- Tutorial 1: Jesse Chiem, Shachi Mittal
-- Tutorial 2: Dave Beck
-- Tutorial 3: Dave Beck
-- Tutorial 4: Wesley Beckner, Evan Komp
-- Tutorial 5: Stephanie Valleau
-
-
-
-- Agenda, Intructions and Info: Stephanie Valleau
-- Code of conduct: Stephanie Valleau, Nida Janulaitis
-- Project documents: Stephanie Valleau, Ivan Castillo, Brenden Pelkie, Evan Komp
-- Rubric: Stephanie Valleau
-- Provided code: Brenden Pelkie
-- Templates: Stephanie Valleau
-- Team balancer code: Evan Komp
-
-- NOAA Dataset: raw data [here](https://www.ncdc.noaa.gov/stormevents/), cleaned and prepared by Evan Komp
+- __Main Organizers__: Stephanie Valleau, Dave Beck, Evan Komp, Brenden Pelkie, Nida Janulaitis
+- __Industry Organizer__: Ivan Castillo, Leo Chiang, Michael Abel, You Peng
+- __Tutorial Instructors__: Jesse Chiem, Shachi Mittal (Tutorial 1), Dave Beck (Tutorials 2 & 3), Wesley Beckner, Evan Komp (Tutorial 4), Stephanie Valleau (Tutorial 5)
