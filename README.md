@@ -3,7 +3,7 @@ Supporting documents for the C-HACK 2022 event given to students. The event cons
 
 See the manuscript [] for details on the event.
 
-Personal information such as names has been redacted.
+Personal information such as names and emails have been removed from the documents.
 
 ## Contents
 
